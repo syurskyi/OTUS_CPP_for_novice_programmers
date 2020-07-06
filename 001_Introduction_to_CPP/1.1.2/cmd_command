@@ -1,1 +1,1 @@
-g++ hello_world.cpp -o hello -std=c++14
+g++ hello_world.cpp -o Debug/hello -std=c++14
